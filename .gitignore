@@ -1,0 +1,6 @@
+.venv/
+cache/
+exports/
+llms-426021-2c79e3cbf537.json
+pandasai.log
+
